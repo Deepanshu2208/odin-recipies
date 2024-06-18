@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+body {
+    background-color: antiquewhite;
+}
+
+.go_back{
+    display: block;
+    color: darkgreen;
+    font-size: 18px;
+    margin-top: 20px auto 10% auto
+}
+
+.recipe_title{
+    font-family:'Times New Roman', Times, serif;
+    width: 30%;
+    color: brown;
+    font-size: 50px;
+    margin: 10px auto 50px;
+    text-align: center;
+}
+
+.intro{
+    font-size: 24px;
+    font-style: italic;
+    color: black;
+    width: 60%;
+    margin: 30px auto;
+}
+
+.image_container{
+    width: 55%;
+    margin: 20px auto;
+}
+
+.title_image{
+    height: 500px;
+    width: 800px;
+}
+
+
+.ingredients_title{
+    color: #4b5d1f;
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: left;
+    width: 60%;
+    margin: 30px auto;
+    text-decoration: underline;
+
+}
+
+.ingredients_list{
+    color: black;
+    font-size: 24px;
+    text-align: left;
+    width: 50%;
+    margin: 30px auto;
+    font-style: italic;
+}
+
+.directions_title{
+    color: #4b5d1f;
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: left;
+    width: 60%;
+    margin: 30px auto;
+    text-decoration: underline;
+
+}
+
+.directions_list{
+    color: black;
+    font-size: 24px;
+    text-align: left;
+    width: 50%;
+    margin: 30px auto;
+
+}
+
+.directions_list li{
+    margin: 10px auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
